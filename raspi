@@ -1,0 +1,25 @@
+sudo nmap -sS 10.42.0.1/24
+username pi
+password raspi
+
+
+
+mysql password : root
+
+讀資料
+
+10:00 meeting
+
+航班   航班號 出發時間 到達時間 哩程 
+  
+
+
+機場   
+	機場名稱 機場號
+
+航班
+	航班號 出發機場號 底達機場號 出發時間 抵達時間 哩程
+
+
+
+須要固定IP
